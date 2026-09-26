@@ -6,3 +6,4 @@ dice.kicad_sch
 planning.drawio
 top_board-backups/
 bottom_board-backups/
+.DS_Store
