@@ -7692,6 +7692,7 @@
 		(property "Reference" "J2"
 			(at 0 1.745 90)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "d93271ce-979a-451d-9b6b-17468d2aeba4")
 			(effects
 				(font
@@ -7990,6 +7991,7 @@
 		(property "Reference" "J1"
 			(at 0 1.745 90)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "c4a300a4-33c7-4ac8-b466-b1f022e8e779")
 			(effects
 				(font

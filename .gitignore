@@ -7,3 +7,6 @@ planning.drawio
 top_board-backups/
 bottom_board-backups/
 .DS_Store
+**/.DS_Store
+shortcut.txt
+*.xlsx
