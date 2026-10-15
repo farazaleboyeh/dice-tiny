@@ -1,12 +1,16 @@
-"Reference","Qty","Value","DNP","Exclude from BOM","Exclude from Board","Footprint","Datasheet"
-"BT1","1","Battery_Cell","","","","Battery Holder CR2032-P28-K Compatible with CR2032 Horizontal SMT Reflow 24.2mm:BAT-SMD_MY-2032-12-Updated-4",""
-"C1,C3","2","C","","","","Capacitor_SMD:C_0402_1005Metric",""
-"C2","1","C","","","","Capacitor_SMD:C_0805_2012Metric",""
-"IC1,IC2","2","74HC595","","","","Package_DFN_QFN:DHVQFN-16-1EP_2.5x3.5mm_P0.5mm_EP1x2mm",""
-"J1,J2","2","Conn_01x06_Socket","","","","Connector_PinSocket_1.27mm:PinSocket_1x06_P1.27mm_Vertical",""
-"Q1,Q2,Q3,Q4,Q5,Q6","6","Q_PNP_BCE","","","","Package_TO_SOT_SMD:SOT-523",""
-"R1,R2,R3,R4,R5,R6,R7,R8","8","R","","","","Resistor_SMD:R_0402_1005Metric",""
-"SW1","1","SW_SPDT","","","","SHOU HAN MINI MSK12CO2:SW-SMD_MSK12CO2",""
-"TP1,TP2,TP3","3","TestPoint","","","","TestPoint:TestPoint_Pad_D1.0mm",""
-"U1","1","ATTINY1616-MNR","","","","MICROCHIP ATTINY1616-MNR:QFN-20_L3.0-W3.0-P0.40-BL-EP1.7","https://lcsc.com/product-detail/MICROCHIP_Microchip-Tech-ATTINY1616-MNR_C507118.html"
-"U2","1","LIS3DH","","","","Package_LGA:LGA-16_3x3mm_P0.5mm_LayoutBorder3x5y","https://www.st.com/resource/en/datasheet/cd00274221.pdf"
+Item #,Reference,Qty,Manufacturer,MPN,Value,Footprint,Link,Type,Exclude from BOM,Exclude from Board,DNP
+1,BT1,1,MYOUNG,MY-2032-28,Battery_Cell,Battery Holder CR2032-P28-K Compatible with CR2032 Horizontal SMT Reflow 24.2mm:BAT-SMD_MY-2032-12-Updated-4,https://www.lcsc.com/product-detail/C6937139.html?s_z=n_q_t_cr2032,SMD,,,
+2,"C1,C3",2,,,C,Capacitor_SMD:C_0402_1005Metric,,SMD,,,
+3,C2,1,,,C,Capacitor_SMD:C_0805_2012Metric,,SMD,,,
+4,"IC1,IC2",2,Nexperia,"74HC595BQ-Q100,115",74HC595,Package_DFN_QFN:DHVQFN-16-1EP_2.5x3.5mm_P0.5mm_EP1x2mm,https://www.lcsc.com/product-detail/C547123.html?s_z=s_p_74HC595BQ-Q100%252C115,SMD,,,
+5,J1,1,Hong Cheng,HC-PM127-4.3H-1x12PZ,Conn_01x012_Socket,Connector_PinSocket_1.27mm:PinSocket_1x12_P1.27mm_Vertical,https://www.lcsc.com/product-detail/C22436112.html?s_z=n_q_t_Headers%252C%2520Receptacles%252C%2520Female%2520Sockets,THT,,,
+6,"Q1,Q2,Q3,Q4,Q5,Q6",6,DIODES,MMBT3906T-7-F,Q_PNP_BEC,Package_TO_SOT_SMD:SOT-523,https://www.lcsc.com/product-detail/C508223.html?s_z=n_q_t_SOT-523,SMD,,,
+7,"R1,R2,R3,R4,R5,R6",6,FH,RC-02K102JT,1k,Resistor_SMD:R_0402_1005Metric,https://www.lcsc.com/product-detail/C453512.html?s_z=n_q_FH%2520RC-02K102JT,SMD,,,
+8,"R7,R8",2,FH,RC-02K103JT,10k,Resistor_SMD:R_0402_1005Metric,https://www.lcsc.com/product-detail/C453512.html?s_z=n_q_FH%2520RC-02K103JT,SMD,,,
+9,SW1,1,SHOU HAN,MINI MSK12CO2,SW_SPDT,SHOU HAN MINI MSK12CO2:SW-SMD_MSK12CO2,https://www.lcsc.com/product-detail/C2681570.html?s_z=n_q_t_slide%2520switch,SMD,,,
+10,"TP1,TP2,TP3",3,,,TestPoint,TestPoint:TestPoint_Pad_D1.0mm,,SMD,,,
+11,U1,1,MICROCHIP,ATTINY1616-MNR,ATTINY1616-MNR,MICROCHIP ATTINY1616-MNR:QFN-20_L3.0-W3.0-P0.40-BL-EP1.7,https://lcsc.com/product-detail/MICROCHIP_Microchip-Tech-ATTINY1616-MNR_C507118.html,SMD,,,
+12,U2,1,ST,LIS3DHTR,LIS3DH,Package_LGA:LGA-16_3x3mm_P0.5mm_LayoutBorder3x5y,https://www.lcsc.com/product-detail/C15134.html?s_z=n_q_LIS3DH,SMD,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,male:,PZ254V-11-06P,C492405,,,,,,
